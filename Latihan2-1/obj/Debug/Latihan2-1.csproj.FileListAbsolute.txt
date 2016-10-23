@@ -1,0 +1,9 @@
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113163_MikoKrisdianto\Latihan2-1\bin\Debug\Latihan_2_1.exe.config
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113163_MikoKrisdianto\Latihan2-1\obj\Debug\Latihan_2_1.exe
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113163_MikoKrisdianto\Latihan2-1\obj\Debug\Latihan_2_1.pdb
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113163_MikoKrisdianto\Latihan2-1\bin\Debug\Latihan_2_1.exe
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113163_MikoKrisdianto\Latihan2-1\bin\Debug\Latihan_2_1.pdb
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113163_MikoKrisdianto\Latihan2-1\obj\Debug\Latihan2-1.csprojResolveAssemblyReference.cache
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113163_MikoKrisdianto\Latihan2-1\obj\Debug\Latihan_2_1.Form1.resources
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113163_MikoKrisdianto\Latihan2-1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113163_MikoKrisdianto\Latihan2-1\obj\Debug\Latihan2-1.csproj.GenerateResource.Cache

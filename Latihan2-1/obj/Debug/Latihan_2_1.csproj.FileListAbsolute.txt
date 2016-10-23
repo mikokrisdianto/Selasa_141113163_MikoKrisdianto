@@ -1,0 +1,18 @@
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_2_1\obj\Debug\Latihan_2_1.Form1.resources
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_2_1\obj\Debug\Latihan_2_1.pdb
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113279_RyanRajaya-master\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113279_RyanRajaya-master\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113279_RyanRajaya-master\Latihan_2_1\obj\Debug\Latihan_2_1.pdb
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113279_RyanRajaya-master\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113279_RyanRajaya-master\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113279_RyanRajaya-master\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113279_RyanRajaya-master\Latihan_2_1\obj\Debug\Latihan_2_1.Form1.resources
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113279_RyanRajaya-master\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+E:\SEMESTER 5\FRAMEWORK L\Selasa_141113279_RyanRajaya-master\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
