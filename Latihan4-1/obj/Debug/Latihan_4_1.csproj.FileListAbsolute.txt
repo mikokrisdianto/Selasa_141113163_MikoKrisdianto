@@ -1,0 +1,15 @@
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_4_1\obj\Debug\Latihan_4_1.Form1.resources
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+E:\SEMESTER 5\Selasa_141113651_AchmadHanafi-master\Selasa_141113651_AchmadHanafi\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+E:\SEMESTER 5\Selasa_141113651_AchmadHanafi-master\Selasa_141113651_AchmadHanafi\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+E:\SEMESTER 5\Selasa_141113651_AchmadHanafi-master\Selasa_141113651_AchmadHanafi\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+E:\SEMESTER 5\Selasa_141113163_MikoKrisdianto\Latihan4-1\bin\Debug\Latihan_4_1.exe.config
+E:\SEMESTER 5\Selasa_141113163_MikoKrisdianto\Latihan4-1\obj\Debug\Latihan_4_1.exe
+E:\SEMESTER 5\Selasa_141113163_MikoKrisdianto\Latihan4-1\obj\Debug\Latihan_4_1.pdb
