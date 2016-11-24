@@ -40,7 +40,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(27, 76);
+            this.label1.Location = new System.Drawing.Point(24, 20);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(39, 13);
             this.label1.TabIndex = 0;
@@ -49,7 +49,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(27, 121);
+            this.label2.Location = new System.Drawing.Point(24, 65);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(39, 13);
             this.label2.TabIndex = 1;
@@ -57,22 +57,22 @@
             // 
             // Txt1
             // 
-            this.Txt1.Location = new System.Drawing.Point(30, 98);
+            this.Txt1.Location = new System.Drawing.Point(84, 17);
             this.Txt1.Name = "Txt1";
-            this.Txt1.Size = new System.Drawing.Size(66, 20);
+            this.Txt1.Size = new System.Drawing.Size(167, 20);
             this.Txt1.TabIndex = 2;
             // 
             // Txt2
             // 
-            this.Txt2.Location = new System.Drawing.Point(30, 137);
+            this.Txt2.Location = new System.Drawing.Point(84, 62);
             this.Txt2.Name = "Txt2";
-            this.Txt2.Size = new System.Drawing.Size(66, 20);
+            this.Txt2.Size = new System.Drawing.Size(167, 20);
             this.Txt2.TabIndex = 3;
             // 
             // TxtHasil
             // 
             this.TxtHasil.Enabled = false;
-            this.TxtHasil.Location = new System.Drawing.Point(142, 157);
+            this.TxtHasil.Location = new System.Drawing.Point(84, 156);
             this.TxtHasil.Name = "TxtHasil";
             this.TxtHasil.Size = new System.Drawing.Size(167, 20);
             this.TxtHasil.TabIndex = 5;
@@ -80,7 +80,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(212, 141);
+            this.label3.Location = new System.Drawing.Point(24, 159);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(30, 13);
             this.label3.TabIndex = 4;
@@ -88,7 +88,7 @@
             // 
             // BtnHitung
             // 
-            this.BtnHitung.Location = new System.Drawing.Point(191, 96);
+            this.BtnHitung.Location = new System.Drawing.Point(126, 99);
             this.BtnHitung.Name = "BtnHitung";
             this.BtnHitung.Size = new System.Drawing.Size(75, 23);
             this.BtnHitung.TabIndex = 6;
@@ -100,7 +100,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(362, 292);
+            this.ClientSize = new System.Drawing.Size(284, 217);
             this.Controls.Add(this.BtnHitung);
             this.Controls.Add(this.TxtHasil);
             this.Controls.Add(this.label3);

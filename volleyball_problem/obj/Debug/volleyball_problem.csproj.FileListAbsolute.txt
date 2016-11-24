@@ -12,5 +12,3 @@ C:\Users\Alucard\Desktop\volleyball_problem\obj\Debug\volleyball_problem.exe
 C:\Users\Alucard\Desktop\volleyball_problem\obj\Debug\volleyball_problem.pdb
 E:\SEMESTER 5\Selasa_141113163_MikoKrisdianto\volleyball_problem\obj\Debug\volleyball_problem.exe
 E:\SEMESTER 5\Selasa_141113163_MikoKrisdianto\volleyball_problem\obj\Debug\volleyball_problem.pdb
-C:\Users\Alucard\Desktop\Selasa_141113163_MikoKrisdianto\volleyball_problem\obj\Debug\volleyball_problem.exe
-C:\Users\Alucard\Desktop\Selasa_141113163_MikoKrisdianto\volleyball_problem\obj\Debug\volleyball_problem.pdb
