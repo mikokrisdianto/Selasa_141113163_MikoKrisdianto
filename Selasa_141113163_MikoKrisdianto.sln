@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan3_1", "Latihan3-1\La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan4-1", "..\Selasa_141113651_AchmadHanafi-master\Selasa_141113651_AchmadHanafi\Latihan_4_1\Latihan4-1.csproj", "{16818ADF-8986-45FE-B5FC-6141DEB0450C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volleyball_problem", "volleyball_problem\volleyball_problem.csproj", "{2639AA09-CFEB-4B1C-9453-F4917AE2BE17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{16818ADF-8986-45FE-B5FC-6141DEB0450C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16818ADF-8986-45FE-B5FC-6141DEB0450C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16818ADF-8986-45FE-B5FC-6141DEB0450C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2639AA09-CFEB-4B1C-9453-F4917AE2BE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2639AA09-CFEB-4B1C-9453-F4917AE2BE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2639AA09-CFEB-4B1C-9453-F4917AE2BE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2639AA09-CFEB-4B1C-9453-F4917AE2BE17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
