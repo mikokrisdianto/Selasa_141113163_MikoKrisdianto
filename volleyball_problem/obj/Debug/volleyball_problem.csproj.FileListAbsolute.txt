@@ -1,0 +1,14 @@
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\volleyball_problem\obj\Debug\volleyball_problem.pdb
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+C:\Users\Alucard\Desktop\Senin_141111537_AdrianHartanto-master\volleyball_problem\obj\Debug\volleyball_problem.exe
+C:\Users\Alucard\Desktop\Senin_141111537_AdrianHartanto-master\volleyball_problem\obj\Debug\volleyball_problem.pdb
+C:\Users\Alucard\Desktop\volleyball_problem\obj\Debug\volleyball_problem.exe
+C:\Users\Alucard\Desktop\volleyball_problem\obj\Debug\volleyball_problem.pdb
+E:\SEMESTER 5\Selasa_141113163_MikoKrisdianto\volleyball_problem\obj\Debug\volleyball_problem.exe
+E:\SEMESTER 5\Selasa_141113163_MikoKrisdianto\volleyball_problem\obj\Debug\volleyball_problem.pdb
