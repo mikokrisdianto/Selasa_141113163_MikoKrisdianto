@@ -1,0 +1,10 @@
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\bin\Debug\Latihan_5_1.exe
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\bin\Debug\Latihan_5_1.pdb
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\obj\Debug\Latihan_5_1.Form1.resources
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+D:\v\New folder\Selasa_141113651_AchmadHanafi\Latihan_5_1\obj\Debug\Latihan_5_1.TukangEdit.resources
