@@ -16,7 +16,7 @@ namespace Latihan_PointOfSales
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMain());
+            Application.Run(new Mainform());
         }
     }
 }

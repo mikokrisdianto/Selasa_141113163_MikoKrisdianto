@@ -47,11 +47,97 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\clsBarang.cs" />
+    <Compile Include="Class\clsCustomer.cs" />
+    <Compile Include="Class\clsDatabase.cs" />
+    <Compile Include="Class\clsDetailPembelian.cs" />
+    <Compile Include="Class\clsDetailPenjualan.cs" />
+    <Compile Include="Class\clsPembelian.cs" />
+    <Compile Include="Class\clsPenjualan.cs" />
+    <Compile Include="Class\clsSupplier.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDaftarbarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDaftarbarang.Designer.cs">
+      <DependentUpon>formDaftarbarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDaftarcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDaftarcustomer.Designer.cs">
+      <DependentUpon>formDaftarcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDaftarsupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDaftarsupplier.Designer.cs">
+      <DependentUpon>formDaftarsupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDeletebarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDeletebarang.Designer.cs">
+      <DependentUpon>formDeletebarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDeletecustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDeletecustomer.Designer.cs">
+      <DependentUpon>formDeletecustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDeletesupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDeletesupplier.Designer.cs">
+      <DependentUpon>formDeletesupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDetailpembelian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDetailpembelian.Designer.cs">
+      <DependentUpon>formDetailpembelian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDetailpenjualan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDetailpenjualan.Designer.cs">
+      <DependentUpon>formDetailpenjualan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formEditbarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEditbarang.Designer.cs">
+      <DependentUpon>formEditbarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formEditcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEditcustomer.Designer.cs">
+      <DependentUpon>formEditcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formEditsupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEditsupplier.Designer.cs">
+      <DependentUpon>formEditsupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formPembelian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPembelian.Designer.cs">
+      <DependentUpon>formPembelian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formPenjualan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPenjualan.Designer.cs">
+      <DependentUpon>formPenjualan.cs</DependentUpon>
     </Compile>
     <Compile Include="formRegistrasiBarang.cs">
       <SubType>Form</SubType>
@@ -59,13 +145,70 @@
     <Compile Include="formRegistrasiBarang.Designer.cs">
       <DependentUpon>formRegistrasiBarang.cs</DependentUpon>
     </Compile>
+    <Compile Include="formRegistrasicustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRegistrasicustomer.Designer.cs">
+      <DependentUpon>formRegistrasicustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formRegistrasisupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRegistrasisupplier.Designer.cs">
+      <DependentUpon>formRegistrasisupplier.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="formDaftarbarang.resx">
+      <DependentUpon>formDaftarbarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDaftarcustomer.resx">
+      <DependentUpon>formDaftarcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDaftarsupplier.resx">
+      <DependentUpon>formDaftarsupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDeletebarang.resx">
+      <DependentUpon>formDeletebarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDeletecustomer.resx">
+      <DependentUpon>formDeletecustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDeletesupplier.resx">
+      <DependentUpon>formDeletesupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDetailpembelian.resx">
+      <DependentUpon>formDetailpembelian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDetailpenjualan.resx">
+      <DependentUpon>formDetailpenjualan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formEditbarang.resx">
+      <DependentUpon>formEditbarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formEditcustomer.resx">
+      <DependentUpon>formEditcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formEditsupplier.resx">
+      <DependentUpon>formEditsupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPembelian.resx">
+      <DependentUpon>formPembelian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPenjualan.resx">
+      <DependentUpon>formPenjualan.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="formRegistrasiBarang.resx">
       <DependentUpon>formRegistrasiBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRegistrasicustomer.resx">
+      <DependentUpon>formRegistrasicustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRegistrasisupplier.resx">
+      <DependentUpon>formRegistrasisupplier.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -89,6 +232,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
